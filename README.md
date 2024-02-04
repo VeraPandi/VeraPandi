@@ -12,7 +12,7 @@
     
 Je suis Vera Pandi. Développeuse ${\color{#fb630a}\textsf{JavaScript}\color{#0093db}\textsf{ React}}$. 
 
-La fin de mes études est arrivée. Actuellement, je travaille sur des projets personnels pour approndir mes connaissances de Padawan du code.  
+La fin de mes études est arrivée. Actuellement, je travaille sur des projets personnels pour approfondir mes connaissances de Padawan du code.  
 Je suis sensible au Responsive Design, à l'UI/UX Design, à ce qui est beau, bien écrit, documenté et testé pour minimiser le temps de travail de celui qui reprendra mon travail. 😎
 
 Intérêts : 🎮 🎨 🪐🧑‍🦽 🌐 🕺 🎵 💭 📗 🖋
