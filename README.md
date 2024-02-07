@@ -4,7 +4,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="400" alt="hello!" src="https://github.com/VeraPandi/VeraPandi/assets/84042427/b105aa0c-18f5-4b78-bb80-413bdc405d78">  
+    <img width="400" alt="hello!" src="https://github.com/VeraPandi/VeraPandi/assets/84042427/78a8c41c-bf36-4877-b172-0dead2be342c">  
   </td>  
   <td>
   </td>  
@@ -13,12 +13,10 @@
 Je suis Vera Pandi. Développeuse ${\color{#fb630a}\textsf{JavaScript}\color{#0093db}\textsf{ React}}$. 
 
 La fin de mes études est arrivée. Actuellement, je travaille sur des projets personnels pour approfondir mes connaissances de Padawan du code.  
-Je suis sensible au Responsive Design, à l'UI/UX Design, à ce qui est beau, bien écrit, documenté et testé pour minimiser le temps de travail de celui qui reprendra mon travail. 😎
+
+Jette un œil sur mon [portfolio](https://verapandi.github.io/portfolio/) pour avoir plus de détails sur mes derniers projets de formation et mes side-projects. Tu peux aussi me suivre sur [LinkedIn](https://www.linkedin.com/in/vl-dev-js-react/). 😉
 
 Intérêts : 🎮 🎨 🪐🧑‍🦽 🌐 🕺 🎵 💭 📗 🖋
-
-[Portfolio](https://verapandi.github.io/portfolio/)  
-[Contact](https://www.linkedin.com/in/vl-dev-js-react/)
 
   </td>
 </tr>
