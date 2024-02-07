@@ -4,7 +4,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="400" alt="hello!" src="https://github.com/VeraPandi/VeraPandi/assets/84042427/10f85b46-03b1-49dd-af31-1a91e9be660e">  
+    <img width="400" alt="hello!" src="https://github.com/VeraPandi/VeraPandi/assets/84042427/b105aa0c-18f5-4b78-bb80-413bdc405d78">  
   </td>  
   <td>
   </td>  
