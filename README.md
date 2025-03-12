@@ -12,7 +12,7 @@
     
 Je suis Vera Pandi. Développeuse ${\color{#fb630a}\textsf{JavaScript}\color{#0093db}\textsf{ React}}$. 
 
-La fin de mes études est arrivée. Actuellement, je travaille sur des projets personnels pour approfondir mes connaissances de Padawan du code.  
+Actuellement, je travaille sur des projets personnels en React et NextJS.  
 
 Jette un œil sur mon [portfolio](https://verapandi.github.io/portfolio/) pour avoir plus de détails sur mes derniers projets de formation et mes side-projects. Tu peux aussi me suivre sur [LinkedIn](https://www.linkedin.com/in/vl-dev-js-react/). 😉
 
@@ -24,6 +24,7 @@ Intérêts : 🎮 🎨 🪐🧑‍🦽 🌐 🕺 🎵 💭 📗 🖋
 
 
 ## 💼 Side Projects
+- [E-commerce](https://nextjs15-ecommerce-verapandi.vercel.app/)
 - [Puzzle Jigsaw](https://vp-jigsaw-puzzle.netlify.app/)
 - [Portfolio](https://verapandi.github.io/portfolio/)
 
